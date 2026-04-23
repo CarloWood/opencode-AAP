@@ -1,4 +1,0 @@
-First line.
-Patch attempt for planner test file.
-Second patch attempt for planner test file.
-Third patch attempt for planner test file.

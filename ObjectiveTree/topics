@@ -1,6 +1,4 @@
-1. Planner execution shell lacks aap-* helpers available in Shell Mode — done enough for current policy
-2. Find out where mode is written and then only write primary agents — pending
-3. Restrict mutating aap-* helpers by agent role/mode — done enough for current policy
-4. Distinguish user shell permissions from agent permissions for aap-* — open
-5. Update AGENTS.md to mark certain aap-* commands as only allowed when explicitly told — open
-6. Allow specific coder aap-* commands to temporarily remount PLANROOT read-write when they need to mutate it — current focus
+4. Update `AGENTS.md` to mark certain `aap-*` commands as only allowed when explicitly told — current focus
+5. Distinguish user shell permissions from agent permissions for `aap-*` — open
+6. Find out where `mode` is written and then only write primary agents — pending
+7. Automate copying Topic List from chat to topics file — open

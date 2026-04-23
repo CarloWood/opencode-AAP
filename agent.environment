@@ -1,0 +1,1531 @@
+AGENT=1
+AICLI_DIRECTORY=
+AICLI_INSIDE_ENVIRONMENT=1
+AICLI_MODE=planner
+AICLI_RUN_CLI=opencode
+AUTOGEN_CMAKE_ONLY=1
+BASH=/bin/bash
+BASHOPTS=checkwinsize:cmdhist:complete_fullquote:extquote:force_fignore:globasciiranges:globskipdots:hostcomplete:interactive_comments:patsub_replacement:progcomp:promptvars:sourcepath
+BASH_ALIASES=()
+BASH_ARGC=()
+BASH_ARGV=()
+BASH_CMDS=()
+BASH_EXECUTION_STRING='set > "agent.environment"'
+BASH_LINENO=()
+BASH_LOADABLES_PATH=/usr/local/lib/bash:/usr/lib/bash:/opt/local/lib/bash:/usr/pkg/lib/bash:/opt/pkg/lib/bash:.
+BASH_SOURCE=()
+BASH_VERSINFO=([0]="5" [1]="3" [2]="9" [3]="1" [4]="release" [5]="x86_64-pc-linux-gnu")
+BASH_VERSION='5.3.9(1)-release'
+BUILDDIR=/opt/ext4/nvme2/codex/workspace/build
+CC=gcc
+CCACHE_DIR=/opt/ccache
+CDEH_ENVFILES=$'__cdeh_reset_environment\n/opt/ext4/nvme2/codex/env.source\n/opt/ext4/nvme2/codex/workspace/env.source'
+CDEH_HISTROOT=/opt/ext4/nvme2/codex/cdeh/history/carlo
+CDEH_HISTSIZE=1000
+CDEH_ROOT=/opt/ext4/nvme2/codex/cdeh
+CDEH_STORE_ENVIRONMENT=yes
+CDEH_TMP=/tmp/cdeh.carlo/3284085
+CDEH_USER=carlo
+CFLAGS=-fmax-errors=2
+CMAKE_CONFIGURE_OPTIONS_STR='-DCMAKE_VERBOSE_MAKEFILE=OFF|-DCMAKE_MESSAGE_LOG_LEVEL=INFO|'
+COLORFGBG='15;0'
+COLORTERM=truecolor
+CPPFLAGS=
+CTAGS_FILE=/opt/ext4/nvme2/codex/workspace/build/tags
+CTAGS_ROOT_SRCDIRS=
+CUDA_PATH=/opt/cuda
+CXX=g++
+CXXFLAGS=-fmax-errors=2
+DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus
+DEBUGINFOD_URLS='https://debuginfod.archlinux.org '
+DEB_BUILD_OPTIONS=parallel=32
+DESKTOP_SESSION=fluxbox
+DIRSTACK=()
+DISPLAY=:100
+EDITOR=/usr/bin/nvim
+EUID=1000
+GCC_COLORS='error=31:warning=37:note=01;34:range1=32:range2=34:locus=01:quote=01:fixit-insert=32:fixit-delete=09;33:diff-filename=01:diff-hunk=32:diff-delete=33:diff-insert=32'
+GDMSESSION=fluxbox
+GEM_HOME=/home/carlo/.local/share/gem/ruby/3.4.0
+GITACHE_ROOT=/opt/gitache
+GITHUB_REMOTE_NAME=github
+GITHUB_URL_PREFIX=github-carlo:CarloWood/
+GIT_AUTHOR_EMAIL=carlo@alinoe.com
+GIT_AUTHOR_NAME='Daniel Codex'
+GIT_COMMITTER_EMAIL=carlo@alinoe.com
+GIT_COMMITTER_NAME='Daniel Codex'
+GRADLE_HOME=/usr/share/java/gradle
+GROUPS=()
+GTK_MODULES=canberra-gtk-module
+HG=/usr/bin/hg
+HISTFILE=/opt/ext4/nvme2/codex/cdeh/history/carlo/opt/ext4/nvme2/codex/workspace/history
+HISTFILESIZE=1000
+HOME=/opt/ext4/nvme2/codex
+HOME_AICLI=/opt/ext4/nvme2/codex
+HOSTNAME=daniel
+HOSTTYPE=x86_64
+IFS=$' \t\n'
+KONSOLE_DBUS_ACTIVATION_COOKIE=TjiC0gEtSybemcT9YZH0Aou/tcUQs02u3VEeNM4VcVk=
+KONSOLE_DBUS_SERVICE=:1.22
+KONSOLE_DBUS_SESSION=/Sessions/28
+KONSOLE_DBUS_WINDOW=/Windows/5
+KONSOLE_LOAD_DEBUG=1
+KONSOLE_VERSION=251203
+LANG=en_US.UTF-8
+LANGUAGE=
+LC_ADDRESS=nl_NL.UTF-8
+LC_CTYPE=en_US.UTF-8
+LC_MONETARY=nl_NL.UTF-8
+LC_NAME=nl_NL.UTF-8
+LC_NUMERIC=en_US.UTF-8
+LC_PAPER=nl_NL.UTF-8
+LC_TELEPHONE=nl_NL.UTF-8
+LC_TIME=en_IE.UTF-8
+LDFLAGS=
+LIBCWD_NO_STARTUP_MSGS=1
+LIBCWD_RCFILE_OVERRIDE_NAME=/home/carlo/projects/github/ai-cli/ai-cli-sockettapd/libcwdrc_ai-cli-sockettapd
+LOGNAME=carlo
+LS_COLORS='no=0:fi=0:di=32:ln=36:or=46;33:mi=0:pi=31:so=33:bd=44;37:cd=44;37:ex=35:'
+MACHTYPE=x86_64-pc-linux-gnu
+MAIL=/var/spool/mail/carlo
+MATHEMATICA_HOME=/usr/local/Wolfram/Mathematica/13.3
+MOTD_SHOWN=pam
+NODE=/usr/bin/node
+NVCC_CCBIN=/usr/bin/g++
+NVM_CD_FLAGS=
+NVM_DIR=/home/carlo/.nvm
+NVM_RC_VERSION=
+OLDPWD=/opt/ext4/nvme2/codex/workspace/opencode
+OMP_NUM_THREADS=16
+OPENCODE=1
+OPENCODE_DEBUG_SESSION=ses_268dfbb1affeO8km8eIYOI8VdK
+OPENCODE_DISABLE_CHANNEL_DB=1
+OPENCODE_PID=3284136
+OPENCODE_PROCESS_ROLE=worker
+OPENCODE_RUN_ID=9c9361d0-8edd-4f3b-839b-56a136c2ddf2
+OPTERR=1
+OPTIND=1
+OSTYPE=linux-gnu
+OUTPUT_DIRECTORY=/home/carlo/www
+PASSWORD_STORE_CLIP_TIME=15
+PASSWORD_STORE_X_SELECTION=primary
+PATH=/opt/ext4/nvme2/codex/workspace/opencode/packages/opencode/node_modules/.bin:/opt/ext4/nvme2/codex/workspace/opencode/packages/opencode/node_modules/.bin:/opt/ext4/nvme2/codex/workspace/opencode/packages/node_modules/.bin:/opt/ext4/nvme2/codex/workspace/opencode/node_modules/.bin:/opt/ext4/nvme2/codex/workspace/node_modules/.bin:/opt/ext4/nvme2/codex/node_modules/.bin:/opt/ext4/nvme2/node_modules/.bin:/opt/ext4/node_modules/.bin:/opt/node_modules/.bin:/node_modules/.bin:/opt/ext4/nvme2/codex/workspace/opencode/node_modules/.bin:/opt/ext4/nvme2/codex/workspace/opencode/node_modules/.bin:/opt/ext4/nvme2/codex/workspace/node_modules/.bin:/opt/ext4/nvme2/codex/node_modules/.bin:/opt/ext4/nvme2/node_modules/.bin:/opt/ext4/node_modules/.bin:/opt/node_modules/.bin:/node_modules/.bin:/opt/ext4/nvme2/codex/.local/bin:/usr/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl
+PLANROOT=/opt/ext4/nvme2/codex/workspace/opencode-AAP
+PPID=3284136
+PRIMBACKUPPATH=/opt/secondlife/primbackup
+PROFILEHOME=
+PS4='+ '
+PWD=/opt/ext4/nvme2/codex/workspace/opencode-AAP
+QT_QPA_PLATFORMTHEME=kde
+REPOBASE=opencode
+REPOROOT=/opt/ext4/nvme2/codex/workspace/opencode
+SHELL=/bin/bash
+SHELLOPTS=braceexpand:hashall:interactive-comments
+SHELL_SESSION_ID=de7fcb81fce64770bae1b846592e8c3c
+SHLVL=2
+SUDO_COMMAND='/usr/sbin/ip netns exec nscodex bwrap --proc /proc --dev /dev --perms 555 --dir /sys --perms 755 --dir /sys/devices --perms 755 --dir /sys/devices/system --ro-bind /sys/devices/system/cpu /sys/devices/system/cpu --perms 1777 --tmpfs /tmp --perms 755 --dir /tmp/.X11-unix --ro-bind /tmp/.X11-unix /tmp/.X11-unix --ro-bind /usr /usr --ro-bind /bin /bin --ro-bind /lib /lib --ro-bind-try /lib64 /lib64 --bind /opt/ext4/nvme2/codex/.bwrap-masks/etc /etc --ro-bind /etc/passwd /etc/passwd --ro-bind /etc/group /etc/group --ro-bind /etc/nsswitch.conf /etc/nsswitch.conf --ro-bind /etc/hosts /etc/hosts --ro-bind /etc/localtime /etc/localtime --ro-bind /etc/ld.so.cache /etc/ld.so.cache --ro-bind /etc/ssl /etc/ssl --ro-bind /etc/ca-certificates /etc/ca-certificates --ro-bind /etc/remountd /etc/remountd --ro-bind /etc/fonts /etc/fonts --remount-ro /etc --perms 755 --dir /run --bind /run/remountd /run/remountd --bind /run/netns /run/netns --bind /opt/ext4/nvme2/codex/.bwrap-masks/usr_src_linux /usr/src --perms 755 --dir /usr/src/pathogen --perms 755 --dir /usr/src/pathogen/vim-pathogen --perms 755 --dir /usr/src/pathogen/vim-pathogen/autoload --ro-bind /usr/src/pathogen/vim-pathogen/autoload/pathogen.vim /usr/src/pathogen/vim-pathogen/autoload/pathogen.vim --remount-ro /usr/src --perms 755 --dir /opt --perms 755 --dir /opt/ext4 --perms 755 --dir /opt/ext4/nvme2 --bind /opt/ext4/nvme2/codex /opt/ext4/nvme2/codex --perms 755 --dir /home/carlo --perms 755 --dir /home --perms 700 --dir /home/carlo --bind /opt/ext4/nvme2/codex/.ssh /home/carlo/.ssh --perms 700 --dir /opt/ext4/nvme2/codex/.config --ro-bind /home/carlo/.config/nvim /opt/ext4/nvme2/codex/.config/nvim --perms 755 --dir /home/carlo/projects --perms 755 --dir /home/carlo/projects/github --ro-bind /home/carlo/projects/github/neovim-true-color-scheme-editor /home/carlo/projects/github/neovim-true-color-scheme-editor --ro-bind /home/carlo/.Xauthority-xephyr /opt/ext4/nvme2/codex/.Xauthority-xephyr --bind /home/carlo/.codex /opt/ext4/nvme2/codex/.codex --ro-bind /home/carlo/projects/github/ai-cli/opencode /opt/ext4/nvme2/codex/workspace --bind /home/carlo/projects/github/ai-cli/opencode/opencode-AAP /opt/ext4/nvme2/codex/workspace/opencode-AAP --bind /home/carlo/projects/github/ai-cli/opencode/opencode /opt/ext4/nvme2/codex/workspace/opencode --ro-bind /home/carlo/projects/github/ai-cli/ai-cli-bwrap/dot-bash_profile /opt/ext4/nvme2/codex/.bash_profile --ro-bind /home/carlo/projects/github/ai-cli/ai-cli-bwrap/bin/start_ai_cli /opt/ext4/nvme2/codex/.local/bin/start_ai_cli --ro-bind /home/carlo/projects/github/ai-cli/ai-cli-bwrap/bin/AGENTS.sh /opt/ext4/nvme2/codex/.local/bin/AGENTS.sh --remount-ro /opt/ext4/nvme2/codex --bind /opt/gitache /opt/gitache --perms 1777 --tmpfs /opt/ccache --chdir /opt/ext4/nvme2/codex/workspace/opencode --bind /opt/ext4/nvme2/codex/.cache/ai-cli/build /opt/ext4/nvme2/codex/workspace/build --bind /home/carlo/projects/github/ai-cli/ai-cli-bwrap/xdg-home /opt/ext4/nvme2/codex/workspace/.xdg --remount-ro /opt/ext4/nvme2/codex/workspace/opencode-AAP -- setpriv --reuid 1000 --regid 1000 --groups 1000,remountd /opt/ext4/nvme2/codex/.local/bin/start_ai_cli /usr/bin/bun run --cwd /opt/ext4/nvme2/codex/workspace/opencode dev -- /opt/ext4/nvme2/codex/workspace/opencode -s ses_268dfbb1affeO8km8eIYOI8VdK --agent coder'
+SUDO_GID=1000
+SUDO_HOME=/home/carlo
+SUDO_TTY=/dev/pts/16
+SUDO_UID=1000
+SUDO_USER=carlo
+TERM=xterm-256color
+TOPPROJECT=/opt/ext4/nvme2/codex/workspace
+UID=1000
+USER=carlo
+VERSION_CONTROL=numbered
+WINDOWID=6291494
+WORKSPACE_ROOT=/opt/ext4/nvme2/codex/workspace
+XAUTHORITY=/opt/ext4/nvme2/codex/.Xauthority-xephyr
+XDG_CACHE_HOME=/opt/ext4/nvme2/codex/workspace/.xdg/cache
+XDG_CONFIG_HOME=/opt/ext4/nvme2/codex/workspace/.xdg/config
+XDG_DATA_HOME=/opt/ext4/nvme2/codex/workspace/.xdg/data
+XDG_GREETER_DATA_DIR=/var/lib/lightdm-data/carlo
+XDG_RUNTIME_DIR=/run/user/1000
+XDG_SEAT=seat0
+XDG_SEAT_PATH=/org/freedesktop/DisplayManager/Seat0
+XDG_SESSION_CLASS=user
+XDG_SESSION_DESKTOP=fluxbox
+XDG_SESSION_ID=2
+XDG_SESSION_PATH=/org/freedesktop/DisplayManager/Session0
+XDG_SESSION_TYPE=x11
+XDG_STATE_HOME=/opt/ext4/nvme2/codex/workspace/.xdg/state
+XDG_VTNR=7
+YUBIKEYID=0xA209FA54B8841756
+_=/usr/bin/bun
+npm_command=run-script
+npm_config_local_prefix=/opt/ext4/nvme2/codex/workspace/opencode
+npm_config_user_agent='bun/1.3.11 npm/? node/v24.3.0 linux x64'
+npm_execpath=/usr/bin/bun
+npm_lifecycle_event=dev
+npm_lifecycle_script='bun run --cwd packages/opencode --conditions=browser src/index.ts'
+npm_node_execpath=/usr/bin/node
+npm_package_json=/opt/ext4/nvme2/codex/workspace/opencode/package.json
+npm_package_name=opencode
+npm_package_version=1.14.18
+__aap_analyst_list_impl () 
+{ 
+    ( set -euo pipefail;
+    if [[ -z "${PLANROOT:-}" ]]; then
+        __aap_die "PLANROOT is not set.";
+        exit 1;
+    fi;
+    local ref="${1:-}";
+    if [[ "$ref" == "--help" || "$ref" == "-h" ]]; then
+        cat <<'EOF'
+usage: aap-analyst-list [--help]
+
+   Print the current analyst Topic List, if one exists.
+
+   Options:
+     --help  Show this help.
+EOF
+
+        exit 0;
+    fi
+    if [[ ! -r "${PLANROOT}/analyst/current/topics" ]]; then
+        echo "No Topic List current exists.";
+        exit 0;
+    fi;
+    echo "Topic List:";
+    cat "${PLANROOT}/analyst/current/topics" )
+}
+__aap_bootstrap_impl () 
+{ 
+    ( set -euo pipefail;
+    if [[ -z "${PLANROOT:-}" ]]; then
+        __aap_die "PLANROOT is not set.";
+        exit 1;
+    fi;
+    if [[ $AICLI_MODE != "planner" ]]; then
+        __aap_die "As '$AICLI_MODE' agent, you should never try to run aap-bootstrap! This is a 'planner'-agent only function.";
+        exit 1;
+    fi;
+    while [[ $# -gt 0 ]]; do
+        case "$1" in 
+            --help | -h)
+                cat <<'EOF'
+usage: aap-bootstrap
+
+Initialize PLANROOT with an initial objective, the main objective.
+
+Read description from stdin (heredoc/piped input recommended).
+If stdin is a TTY, input is read until EOF (Ctrl-D).
+EOF
+
+                exit 0
+            ;;
+            --*)
+                __aap_die "aap-bootstrap: unknown option: $1"
+                exit 2
+            ;;
+            *)
+                break
+            ;;
+        esac;
+    done;
+    if (( $# != 0 )); then
+        __aap_die "usage: aap-bootstrap";
+        exit 2;
+    fi;
+    local objective_tree="$PLANROOT/ObjectiveTree";
+    local current_objective_link="$PLANROOT/current_objective";
+    if [[ -d "$objective_tree" ]]; then
+        __aap_die "ObjectiveTree directory already exist: $(__aap_rel_to_planroot "$PLANROOT" "$objective_tree")";
+        exit 1;
+    fi;
+    if [[ -t 0 ]]; then
+        printf 'Enter bootstrap description, then end with Ctrl-D:\n' 1>&2;
+    fi;
+    local desc;
+    desc="$(cat)";
+    local desc_check="${desc//''/}";
+    if [[ -z "${desc_check//[[:space:]]/}" ]]; then
+        __aap_die "Empty description.";
+        exit 1;
+    fi;
+    mkdir -p -- "$objective_tree";
+    printf '%s' "$desc" > "$objective_tree/description";
+    if [[ "$desc" != *'
+' ]]; then
+        printf '\n' >> "$objective_tree/description";
+    fi;
+    printf 'not-achieved\n' > "$objective_tree/status";
+    ln -snf -- "$(__aap_rel_to_planroot "$PLANROOT" "$objective_tree")" "$current_objective_link";
+    __aap_notice "Updated current_objective to point to $(basename -- "$objective_tree")." )
+}
+__aap_build_impl () 
+{ 
+    ( set -euo pipefail;
+    if [[ -z "${PLANROOT:-}" ]]; then
+        __aap_die "PLANROOT is not set.";
+        exit 1;
+    fi;
+    if [[ -z "${BUILDDIR:-}" ]]; then
+        __aap_die "BUILDDIR is not set.";
+        exit 1;
+    fi;
+    if [[ $AICLI_MODE != "planner" && $AICLI_MODE != "coder" ]]; then
+        __aap_die "As '$AICLI_MODE' agent, you should never try to run aap-build! This is a 'coder'-agent only function (although the 'planner' can run it too).";
+        exit 1;
+    fi;
+    if [[ ! -d "$BUILDDIR" ]]; then
+        __aap_die "\$BUILDDIR ($(abbreviate_path $BUILDDIR)) does not exist; first run aap-configure.";
+        exit 1;
+    fi;
+    local ref="${1:-}";
+    if [[ "$ref" == "--help" || "$ref" == "-h" ]]; then
+        cat <<'EOF'
+usage: aap-build [cmake --build args...]
+
+EOF
+
+        echo "Build $REPOBASE in \$BUILDDIR."
+        cat <<'EOF'
+Uses:
+  cmake --build "$BUILDDIR" --parallel ${AAP_BUILD_JOBS:-$(nproc)}
+EOF
+
+        exit 0;
+    fi
+    cmake --build "$BUILDDIR" --parallel "${AAP_BUILD_JOBS:-$(nproc)}" "$@" )
+}
+__aap_configure_impl () 
+{ 
+    ( set -euo pipefail;
+    if [[ -z "${PLANROOT:-}" ]]; then
+        __aap_die "PLANROOT is not set.";
+        exit 1;
+    fi;
+    if [[ -z "${REPOROOT:-}" ]]; then
+        __aap_die "REPOROOT is not set.";
+        exit 1;
+    fi;
+    if [[ -z "${BUILDDIR:-}" ]]; then
+        __aap_die "BUILDDIR is not set.";
+        exit 1;
+    fi;
+    if [[ $AICLI_MODE != "planner" && $AICLI_MODE != "coder" ]]; then
+        __aap_die "As '$AICLI_MODE' agent, you should never try to run aap-configure! This is a 'coder'-agent only function (although the 'planner' can run it too).";
+        exit 1;
+    fi;
+    if [[ ! -d "$BUILDDIR" || ! -w "$BUILDDIR" ]]; then
+        __aap_die "BUILDDIR is not a writable directory.";
+        exit 1;
+    fi;
+    local ref="${1:-}";
+    if [[ "$ref" == "--help" || "$ref" == "-h" ]]; then
+        cat <<'EOF'
+usage: aap-configure [cmake args...]
+
+EOF
+
+        echo "Configure $REPOBASE out-of-tree in \$BUILDDIR."
+        cat <<'EOF'
+
+Defaults:
+  -G ${AAP_GENERATOR:-Ninja}
+  -DCMAKE_BUILD_TYPE=${AAP_BUILD_TYPE:-Debug}
+EOF
+
+        exit 0;
+    fi
+    local build_type="${AAP_BUILD_TYPE:-Debug}";
+    local generator="${AAP_GENERATOR:-Ninja}";
+    local have_generator=0;
+    local have_build_type=0;
+    local arg;
+    for arg in "$@";
+    do
+        case "$arg" in 
+            -G | --generator)
+                have_generator=1
+            ;;
+            -DCMAKE_BUILD_TYPE=*)
+                have_build_type=1
+            ;;
+        esac;
+    done;
+    local -a cmd=(cmake -S "$REPOROOT" -B "$BUILDDIR");
+    if (( ! have_generator )); then
+        cmd+=(-G "$generator");
+    fi;
+    if (( ! have_build_type )); then
+        cmd+=("-DCMAKE_BUILD_TYPE=$build_type");
+    fi;
+    cmd+=("$@");
+    "${cmd[@]}" )
+}
+__aap_die () 
+{ 
+    printf 'ERROR: %s\n' "$*" 1>&2;
+    return 1
+}
+__aap_done_impl () 
+{ 
+    ( set -euo pipefail;
+    if [[ -z "${PLANROOT:-}" ]]; then
+        __aap_die "PLANROOT is not set.";
+        exit 1;
+    fi;
+    if [[ $AICLI_MODE != "planner" && $AICLI_MODE != "coder" ]]; then
+        __aap_die "As '$AICLI_MODE' agent, you should never try to run aap-done! This is a 'coder'-agent only function (although the 'planner' may run it too when explicitly told to).";
+        exit 1;
+    fi;
+    if (( $# != 1 )); then
+        __aap_die "usage: aap-done <ref>";
+        exit 2;
+    fi;
+    local ref="$1";
+    if [[ "$ref" == "--help" || "$ref" == "-h" ]]; then
+        cat <<'EOF'
+usage: aap-done <ref>
+
+Mark the current objective as achieved (must match <ref>), then update
+$PLANROOT/current_objective to the lexicographically first not-achieved leaf.
+EOF
+
+        exit 0;
+    fi
+    local objective_tree="$PLANROOT/ObjectiveTree";
+    local current_objective_link="$PLANROOT/current_objective";
+    if [[ ! -d "$objective_tree" ]]; then
+        __aap_die "Missing ObjectiveTree directory: $(__aap_rel_to_planroot "$PLANROOT" "$objective_tree");"' Use `aap-bootstrap` to add the main objective.';
+        exit 0;
+    fi;
+    if [[ ! -L "$current_objective_link" ]]; then
+        __aap_notice "All goals have been achieved.";
+        exit 0;
+    fi;
+    local current_abs;
+    current_abs="$(readlink -f -- "$current_objective_link")";
+    if [[ ! -d "$current_abs" ]]; then
+        __aap_die "current_objective is not a directory: $(__aap_rel_to_planroot "$PLANROOT" "$current_abs")";
+        exit 1;
+    fi;
+    if ! __aap_is_leaf "$current_abs"; then
+        __aap_die "current_objective is not a leaf objective: $(__aap_rel_to_planroot "$PLANROOT" "$current_abs")";
+        exit 1;
+    fi;
+    local current_status;
+    current_status="$(__aap_read_status "$PLANROOT" "$current_abs")";
+    if [[ "$current_status" != "not-achieved" ]]; then
+        __aap_die "current objective is already achieved: $(basename -- "$current_abs")";
+        exit 1;
+    fi;
+    local parent_abs;
+    parent_abs="$(dirname -- "$current_abs")";
+    local resolved;
+    resolved="$(__aap_resolve_ref_in_parent "$PLANROOT" "$parent_abs" "$ref")";
+    if [[ "$(readlink -f -- "$resolved")" != "$(readlink -f -- "$current_abs")" ]]; then
+        __aap_die "Ref '$ref' does not refer to the current objective ($(basename -- "$current_abs")).";
+        exit 1;
+    fi;
+    if [[ $AICLI_MODE == "coder" ]]; then
+        unset AICLI_MODE;
+        remountctl rw ai-cli "/${REPOBASE}-AAP";
+        trap 'unset AICLI_MODE; remountctl ro ai-cli "/${REPOBASE}-AAP"' EXIT;
+        export AICLI_MODE="coder";
+    fi;
+    __aap_ensure_status "$PLANROOT" "$current_abs" 1;
+    __aap_write_status "$PLANROOT" "$current_abs" achieved;
+    __aap_rollup_statuses_from "$PLANROOT" "$parent_abs" "$objective_tree";
+    local next_leaf="";
+    if next_leaf="$(__aap_find_first_not_achieved_leaf "$PLANROOT" "$objective_tree")"; then
+        ln -snf -- "$(__aap_rel_to_planroot "$PLANROOT" "$next_leaf")" "$current_objective_link";
+        __aap_notice "Updated current_objective to point to $(basename -- "$next_leaf").";
+        exit 0;
+    fi;
+    rm -f -- "$current_objective_link";
+    __aap_notice "All goals have been achieved." )
+}
+__aap_ensure_description () 
+{ 
+    local planroot="$1";
+    local node="$2";
+    local fix="$3";
+    local desc_path="$node/description";
+    if [[ -f "$desc_path" ]]; then
+        return 0;
+    fi;
+    if __aap_node_has_goal_dirs "$node"; then
+        __aap_die "Missing description file: $(__aap_rel_to_planroot "$planroot" "$desc_path") (planner must write it).";
+        return 1;
+    fi;
+    if (( fix )); then
+        __aap_warn "Removing leaf plan node missing description: $(__aap_rel_to_planroot "$planroot" "$node")";
+        rm -rf -- "$node";
+        return 2;
+    fi;
+    __aap_die "Leaf plan node missing description: $(__aap_rel_to_planroot "$planroot" "$node")";
+    return 1
+}
+__aap_ensure_status () 
+{ 
+    local planroot="$1";
+    local node="$2";
+    local fix="$3";
+    local status_path="$node/status";
+    if [[ -f "$status_path" ]]; then
+        return 0;
+    fi;
+    if (( fix )); then
+        __aap_warn "Adding missing status file: $(__aap_rel_to_planroot "$planroot" "$status_path")";
+        printf 'not-achieved\n' > "$status_path";
+        return 0;
+    fi;
+    __aap_die "Missing status file: $(__aap_rel_to_planroot "$planroot" "$status_path")";
+    return 1
+}
+__aap_find_first_not_achieved_leaf () 
+{ 
+    local planroot="$1";
+    local root="$2";
+    local leaf;
+    while IFS= read -r -d '' leaf; do
+        if [[ "$(__aap_read_status "$planroot" "$leaf")" == "not-achieved" ]]; then
+            printf '%s\n' "$leaf";
+            return 0;
+        fi;
+    done < <(__aap_list_leaf_nodes "$root");
+    return 1
+}
+__aap_goal_name_ok () 
+{ 
+    local name="$1";
+    [[ "$name" =~ ^[0-9][0-9][^-]*- ]]
+}
+__aap_goal_token () 
+{ 
+    local name="$1";
+    printf '%s\n' "${name%%-*}"
+}
+__aap_insert_impl () 
+{ 
+    ( set -euo pipefail;
+    if [[ -z "${PLANROOT:-}" ]]; then
+        __aap_die "PLANROOT is not set.";
+        exit 1;
+    fi;
+    if [[ $AICLI_MODE != "planner" ]]; then
+        __aap_die "As '$AICLI_MODE' agent, you should never try to run aap-insert: The PLANROOT is read-only!";
+        exit 1;
+    fi;
+    local parent_refpath="";
+    while [[ $# -gt 0 ]]; do
+        case "$1" in 
+            --parent)
+                shift;
+                if [[ $# -lt 1 ]]; then
+                    __aap_die "usage: aap-insert [--parent <refpath>] <node>";
+                    exit 2;
+                fi;
+                parent_refpath="$1";
+                shift
+            ;;
+            --help | -h)
+                cat <<'EOF'
+usage: aap-insert [--parent <refpath>] <node>
+
+Insert a new leaf goal node and set it as current_objective.
+
+The description is read from stdin (heredoc/piped input recommended). If stdin
+is a TTY, input is read until EOF (Ctrl-D).
+EOF
+
+                exit 0
+            ;;
+            --*)
+                __aap_die "aap-insert: unknown option: $1"
+                exit 2
+            ;;
+            *)
+                break
+            ;;
+        esac;
+    done;
+    if (( $# != 1 )); then
+        __aap_die "usage: aap-insert [--parent <refpath>] <node>";
+        exit 2;
+    fi;
+    local node_name="$1";
+    if [[ "$node_name" == */* ]]; then
+        __aap_die "Node name must not contain '/': '$node_name'";
+        exit 2;
+    fi;
+    if ! __aap_goal_name_ok "$node_name"; then
+        __aap_die "Invalid node name '$node_name' (expected to match ^[0-9][0-9][^-]*-).";
+        exit 2;
+    fi;
+    local objective_tree="$PLANROOT/ObjectiveTree";
+    local current_objective_link="$PLANROOT/current_objective";
+    if [[ ! -d "$objective_tree" ]]; then
+        __aap_die "Missing ObjectiveTree directory: $(__aap_rel_to_planroot "$PLANROOT" "$objective_tree")";
+        exit 1;
+    fi;
+    local current_abs="";
+    if [[ -L "$current_objective_link" ]]; then
+        current_abs="$(readlink -f -- "$current_objective_link" 2> /dev/null || true)";
+    fi;
+    local parent_abs="";
+    if [[ -n "$parent_refpath" ]]; then
+        parent_abs="$(__aap_resolve_refpath_parent "$PLANROOT" "$objective_tree" "$current_abs" "$parent_refpath")";
+    else
+        if [[ -z "$current_abs" || ! -d "$current_abs" ]]; then
+            __aap_die "current_objective is missing or broken; run aap-ls --fix or use aap-insert --parent /.";
+            exit 1;
+        fi;
+        if ! __aap_is_leaf "$current_abs"; then
+            __aap_die "current_objective is not a leaf objective; run aap-ls --fix.";
+            exit 1;
+        fi;
+        parent_abs="$(dirname -- "$current_abs")";
+        __aap_insert_position_ok "$PLANROOT" "$parent_abs" "$node_name" "$(basename -- "$current_abs")";
+    fi;
+    if [[ $parent_abs != "$PLANROOT/ObjectiveTree" && $parent_abs != "$PLANROOT/ObjectiveTree/"* ]]; then
+        if [[ $parent_abs == "$PLANROOT" ]]; then
+            __aap_die "Can not add a sibling to the current objective, which is the root objective. Use aap-insert --parent / to add a new objective into ObjectiveTree.";
+            exit 1;
+        fi;
+        __aap_die "Resolved parent is outside ObjectiveTree: $(abbreviate_path $parent_abs)";
+        exit 1;
+    fi;
+    if [[ ! -d "$parent_abs" ]]; then
+        __aap_die "Resolved parent is not a directory: $(__aap_rel_to_planroot "$PLANROOT" "$parent_abs")";
+        exit 1;
+    fi;
+    __aap_token_unique_in_parent "$PLANROOT" "$parent_abs" "$node_name";
+    local new_dir="$parent_abs/$node_name";
+    if [[ -e "$new_dir" ]]; then
+        __aap_die "Node already exists: $(__aap_rel_to_planroot "$PLANROOT" "$new_dir")";
+        exit 1;
+    fi;
+    if [[ -t 0 ]]; then
+        printf 'Enter description for %s, then end with Ctrl-D:\n' "$node_name" 1>&2;
+    fi;
+    local desc;
+    desc="$(cat)";
+    local desc_check="${desc//''/}";
+    if [[ -z "${desc_check//[[:space:]]/}" ]]; then
+        __aap_die "Empty description.";
+        exit 1;
+    fi;
+    mkdir -p -- "$new_dir";
+    printf '%s' "$desc" > "$new_dir/description";
+    if [[ "$desc" != *'
+' ]]; then
+        printf '\n' >> "$new_dir/description";
+    fi;
+    printf 'not-achieved\n' > "$new_dir/status";
+    ln -snf -- "$(__aap_rel_to_planroot "$PLANROOT" "$new_dir")" "$current_objective_link";
+    __aap_rollup_statuses_from "$PLANROOT" "$parent_abs" "$objective_tree";
+    __aap_notice "Updated current_objective to point to $(basename -- "$new_dir")." )
+}
+__aap_insert_position_ok () 
+{ 
+    local planroot="$1";
+    local parent="$2";
+    local new_name="$3";
+    local current_name="$4";
+    local names=();
+    local child;
+    while IFS= read -r -d '' child; do
+        names+=("$(basename -- "$child")");
+    done < <(__aap_list_goal_dirs "$parent");
+    local current_found=0;
+    local n;
+    for n in "${names[@]}";
+    do
+        if [[ "$n" == "$current_name" ]]; then
+            current_found=1;
+            break;
+        fi;
+    done;
+    if (( ! current_found )); then
+        __aap_die "Current objective '$current_name' is not a direct child of $(__aap_rel_to_planroot "$planroot" "$parent").";
+        return 1;
+    fi;
+    local sorted=();
+    mapfile -t sorted < <(printf '%s\n' "${names[@]}" "$new_name" | LC_ALL=C sort);
+    local cur_idx=-1;
+    local i;
+    for ((i=0; i<${#sorted[@]}; ++i ))
+    do
+        if [[ "${sorted[i]}" == "$current_name" ]]; then
+            cur_idx=$i;
+            break;
+        fi;
+    done;
+    if (( cur_idx <= 0 )); then
+        __aap_die "New node '$new_name' must sort immediately before '$current_name' under $(__aap_rel_to_planroot "$planroot" "$parent").";
+        return 1;
+    fi;
+    if [[ "${sorted[cur_idx-1]}" != "$new_name" ]]; then
+        __aap_die "New node '$new_name' must sort immediately before '$current_name' under $(__aap_rel_to_planroot "$planroot" "$parent").";
+        return 1;
+    fi
+}
+__aap_is_goal_dir () 
+{ 
+    [[ -d "$1" && "$(basename "$1")" != .* ]]
+}
+__aap_is_leaf () 
+{ 
+    local node="$1";
+    ! __aap_node_has_goal_dirs "$node"
+}
+__aap_list_goal_dirs () 
+{ 
+    local node="$1";
+    local children=();
+    local entry;
+    while IFS= read -r -d '' entry; do
+        children+=("$entry");
+    done < <(find "$node" -mindepth 1 -maxdepth 1 -type d -print0 2> /dev/null | LC_ALL=C sort -z);
+    local child;
+    for child in "${children[@]}";
+    do
+        if __aap_is_goal_dir "$child"; then
+            printf '%s\0' "$child";
+        fi;
+    done
+}
+__aap_list_leaf_nodes () 
+{ 
+    local root="$1";
+    local stack=("$root");
+    while (( ${#stack[@]} > 0 )); do
+        local node="${stack[-1]}";
+        unset 'stack[-1]';
+        local children=();
+        local child;
+        while IFS= read -r -d '' child; do
+            children+=("$child");
+        done < <(__aap_list_goal_dirs "$node");
+        if (( ${#children[@]} == 0 )); then
+            printf '%s\0' "$node";
+            continue;
+        fi;
+        local i;
+        for ((i=${#children[@]}-1; i>=0; --i ))
+        do
+            stack+=("${children[i]}");
+        done;
+    done
+}
+__aap_ls_impl () 
+{ 
+    ( set -euo pipefail;
+    if [[ -z "${PLANROOT:-}" ]]; then
+        __aap_die "PLANROOT is not set.";
+        exit 1;
+    fi;
+    local fix=1;
+    local default_fix=;
+    local default_no_fix=;
+    if [[ $AICLI_MODE != "planner" ]]; then
+        fix=0;
+        default_no_fix=" (default)";
+    else
+        default_fix=" (default)";
+    fi;
+    while [[ $# -gt 0 ]]; do
+        case "$1" in 
+            --fix)
+                fix=1;
+                shift
+            ;;
+            --no-fix)
+                fix=0;
+                shift
+            ;;
+            --help | -h)
+                cat <<EOF
+usage: aap-ls [--fix|--no-fix] [--help]
+
+Print an overview of the current AAP ObjectiveTree and (optionally) fix common
+problems to restore invariants.
+
+Options:
+  --fix     Apply fixes${default_fix}.
+  --no-fix  Only report problems; do not modify the ObjectiveTree or symlinks${default_no_fix}.
+  --help    Show this help.
+EOF
+
+                exit 0
+            ;;
+            *)
+                echo "aap-ls: unknown argument: $1" 1>&2;
+                exit 2
+            ;;
+        esac;
+    done;
+    local objective_tree="$PLANROOT/ObjectiveTree";
+    local current_objective_link="$PLANROOT/current_objective";
+    if [[ ! -d "$objective_tree" ]]; then
+        __aap_notice 'No plan exists yet. Use `aap-bootstrap` to add the main objective.';
+        exit 0;
+    fi;
+    if [[ $AICLI_MODE != "planner" && $fix -eq 1 ]]; then
+        __aap_die "As '$AICLI_MODE' agent, you should never try to run aap-ls with the argument --fix: The PLANROOT is read-only!";
+        exit 1;
+    fi;
+    local objective_tree_abs;
+    objective_tree_abs="$(readlink -f -- "$objective_tree")";
+    local first_not_achieved_leaf="";
+    local stack=("$objective_tree");
+    while (( ${#stack[@]} > 0 )); do
+        local node="${stack[-1]}";
+        unset 'stack[-1]';
+        if ! __aap_ensure_description "$PLANROOT" "$node" "$fix"; then
+            continue;
+        fi;
+        __aap_ensure_status "$PLANROOT" "$node" "$fix";
+        local children=();
+        local child;
+        while IFS= read -r -d '' child; do
+            children+=("$child");
+        done < <(__aap_list_goal_dirs "$node");
+        local is_leaf=1;
+        if (( ${#children[@]} > 0 )); then
+            is_leaf=0;
+        fi;
+        local status;
+        status="$(__aap_read_status "$PLANROOT" "$node")";
+        if (( is_leaf )); then
+            if [[ -z "$first_not_achieved_leaf" && "$status" == "not-achieved" ]]; then
+                first_not_achieved_leaf="$node";
+            fi;
+        fi;
+        local i;
+        for ((i=${#children[@]}-1; i>=0; --i ))
+        do
+            stack+=("${children[i]}");
+        done;
+    done;
+    if [[ -z "$first_not_achieved_leaf" ]]; then
+        if (( fix )); then
+            rm -f -- "$current_objective_link" 2> /dev/null || true;
+        fi;
+        __aap_notice "All goals have been achieved.";
+        printf 'Parent objective: $PLANROOT/ObjectiveTree/\n';
+        local child;
+        while IFS= read -r -d '' child; do
+            __aap_print_achieved "  " "$(basename -- "$child")";
+        done < <(__aap_list_goal_dirs "$objective_tree");
+        printf '@) current objective:\n';
+        printf '(all goals achieved)\n';
+        exit 0;
+    fi;
+    local current_link_exists=0;
+    local current_target_abs="";
+    local current_target_display="";
+    if [[ -L "$current_objective_link" ]]; then
+        current_link_exists=1;
+        local raw_target;
+        raw_target="$(readlink -- "$current_objective_link" 2> /dev/null || true)";
+        if [[ -z "$raw_target" ]]; then
+            current_target_abs="";
+            current_target_display="$(__aap_rel_to_planroot "$PLANROOT" "$current_objective_link")";
+        else
+            local candidate="$raw_target";
+            if [[ "$candidate" != /* ]]; then
+                candidate="$PLANROOT/$candidate";
+            fi;
+            if [[ -d "$candidate" ]]; then
+                current_target_abs="$(readlink -f -- "$candidate" 2> /dev/null || true)";
+            else
+                current_target_abs="";
+            fi;
+            if [[ "$raw_target" == /* ]]; then
+                current_target_display="$(__aap_rel_to_planroot "$PLANROOT" "$raw_target")";
+            else
+                current_target_display="$raw_target";
+            fi;
+        fi;
+    fi;
+    local desired_current="$first_not_achieved_leaf";
+    if (( current_link_exists )); then
+        local link_ok=0;
+        if [[ -n "$current_target_abs" && -d "$current_target_abs" ]]; then
+            link_ok=1;
+        fi;
+        if (( ! link_ok )); then
+            if (( fix )); then
+                if [[ -n "$current_target_display" ]]; then
+                    __aap_warn_out "current_objective points to non-existent $current_target_display:";
+                else
+                    __aap_warn_out "current_objective is broken:";
+                fi;
+                ln -snf -- "$(__aap_rel_to_planroot "$PLANROOT" "$first_not_achieved_leaf")" "$current_objective_link";
+                desired_current="$(readlink -f -- "$current_objective_link")";
+                __aap_notice "Updated current_objective to point to $(basename -- "$first_not_achieved_leaf").";
+            else
+                __aap_warn_out "current_objective exists but is broken.";
+                desired_current="$first_not_achieved_leaf";
+            fi;
+        else
+            local current_status;
+            current_status="$(__aap_read_status "$PLANROOT" "$current_objective_link")";
+            local current_is_leaf=1;
+            if __aap_node_has_goal_dirs "$current_target_abs"; then
+                current_is_leaf=0;
+            fi;
+            if (( current_is_leaf )); then
+                if (( fix )); then
+                    if [[ "$current_status" == "not-achieved" ]]; then
+                        desired_current="$current_target_abs";
+                    else
+                        ln -snf -- "$(__aap_rel_to_planroot "$PLANROOT" "$first_not_achieved_leaf")" "$current_objective_link";
+                        desired_current="$(readlink -f -- "$current_objective_link")";
+                        __aap_notice "Updated current_objective to point to $(basename -- "$first_not_achieved_leaf").";
+                    fi;
+                else
+                    desired_current="$current_target_abs";
+                    if [[ "$current_status" == "achieved" ]]; then
+                        __aap_warn "current_objective points to an achieved node.";
+                    fi;
+                fi;
+            else
+                if (( fix )); then
+                    __aap_warn_out "current_objective points to an internal node; updating to first not-achieved leaf objective.";
+                    ln -snf -- "$(__aap_rel_to_planroot "$PLANROOT" "$first_not_achieved_leaf")" "$current_objective_link";
+                    desired_current="$(readlink -f -- "$current_objective_link")";
+                    __aap_notice "Updated current_objective to point to $(basename -- "$first_not_achieved_leaf").";
+                else
+                    __aap_warn_out "current_objective points to an internal node.";
+                    desired_current="$first_not_achieved_leaf";
+                fi;
+            fi;
+        fi;
+    else
+        if (( fix )); then
+            ln -snf -- "$(__aap_rel_to_planroot "$PLANROOT" "$first_not_achieved_leaf")" "$current_objective_link";
+            desired_current="$(readlink -f -- "$current_objective_link")";
+            __aap_notice "Updated current_objective to point to $(basename -- "$first_not_achieved_leaf").";
+        else
+            __aap_warn_out "current_objective symlink missing.";
+            desired_current="$first_not_achieved_leaf";
+        fi;
+    fi;
+    local current_node_abs="$desired_current";
+    if [[ "$current_node_abs" != /* ]]; then
+        current_node_abs="$(readlink -f -- "$current_node_abs")";
+    fi;
+    if [[ ! -d "$current_node_abs" ]]; then
+        __aap_die "Current objective is not a directory: $(__aap_rel_to_planroot "$PLANROOT" "$current_node_abs")";
+        exit 1;
+    fi;
+    local parent_node_abs;
+    parent_node_abs="$(dirname -- "$current_node_abs")";
+    if [[ "$current_node_abs" == "$objective_tree_abs" ]]; then
+        parent_node_abs="$current_node_abs";
+    fi;
+    local parent_rel;
+    parent_rel="$(__aap_rel_to_planroot "$PLANROOT" "$parent_node_abs")";
+    if [[ "$parent_rel" == "." ]]; then
+        parent_rel="";
+    fi;
+    local parent_display='$PLANROOT';
+    if [[ -n "$parent_rel" ]]; then
+        parent_display+="/$parent_rel";
+    fi;
+    parent_display+="/";
+    printf 'Parent objective: %s\n' "$parent_display";
+    local current_rel;
+    current_rel="$(__aap_rel_to_planroot "$PLANROOT" "$current_node_abs")";
+    while IFS= read -r -d '' child; do
+        local child_name;
+        child_name="$(basename -- "$child")";
+        local child_rel;
+        child_rel="$(__aap_rel_to_planroot "$PLANROOT" "$child")";
+        local child_status;
+        child_status="$(__aap_read_status "$PLANROOT" "$child")";
+        if [[ "$child_rel" == "$current_rel" ]]; then
+            if [[ "$child_status" == "achieved" ]]; then
+                __aap_print_achieved " @" "$child_name";
+            else
+                printf '  @ %s\n' "$child_name";
+            fi;
+        else
+            if [[ "$child_status" == "achieved" ]]; then
+                __aap_print_achieved "  " "$child_name";
+            else
+                printf '    %s\n' "$child_name";
+            fi;
+        fi;
+    done < <(__aap_list_goal_dirs "$parent_node_abs");
+    printf '@) current objective:\n';
+    cat -- "$current_node_abs/description" )
+}
+__aap_node_has_goal_dirs () 
+{ 
+    local node="$1";
+    local found="";
+    found="$(find "$node" -mindepth 1 -maxdepth 1 -type d ! -name '.*' -print -quit 2> /dev/null || true)";
+    [[ -n "$found" ]]
+}
+__aap_normalize_ref () 
+{ 
+    local ref="$1";
+    if [[ "$ref" =~ ^[1-9]($|[.-]) ]]; then
+        ref="0$ref";
+    fi;
+    printf '%s\n' "$ref"
+}
+__aap_notice () 
+{ 
+    printf '%b%s\n' '[36mNOTICE:[0m ' "$*"
+}
+__aap_previous_impl () 
+{ 
+    ( set -euo pipefail;
+    if [[ -z "${PLANROOT:-}" ]]; then
+        __aap_die "PLANROOT is not set.";
+        exit 1;
+    fi;
+    if [[ $AICLI_MODE != "planner" && $AICLI_MODE != "coder" ]]; then
+        __aap_die "As '$AICLI_MODE' agent, you should never try to run aap-previous! The 'coder' and 'planner' agents may run this, when explicitly told to.";
+        exit 1;
+    fi;
+    local ref="${1:-}";
+    if [[ "$ref" == "--help" || "$ref" == "-h" ]]; then
+        cat <<'EOF'
+usage: aap-previous
+
+Move current_objective to the previous leaf goal (depth-first lexicographic
+order) and mark it not-achieved.
+EOF
+
+        exit 0;
+    fi
+    if (( $# != 0 )); then
+        __aap_die "usage: aap-previous";
+        exit 2;
+    fi;
+    local objective_tree="$PLANROOT/ObjectiveTree";
+    local current_objective_link="$PLANROOT/current_objective";
+    if [[ ! -d "$objective_tree" ]]; then
+        __aap_die "Missing ObjectiveTree directory: $(__aap_rel_to_planroot "$PLANROOT" "$objective_tree")";
+        exit 1;
+    fi;
+    local leaves=();
+    local leaf;
+    while IFS= read -r -d '' leaf; do
+        leaves+=("$leaf");
+    done < <(__aap_list_leaf_nodes "$objective_tree");
+    if (( ${#leaves[@]} == 0 )); then
+        __aap_die "No leaf goals found under $(__aap_rel_to_planroot "$PLANROOT" "$objective_tree").";
+        exit 1;
+    fi;
+    local idx=${#leaves[@]};
+    local current_abs="";
+    if [[ -L "$current_objective_link" ]]; then
+        current_abs="$(readlink -f -- "$current_objective_link" 2> /dev/null || true)";
+    fi;
+    if [[ -n "$current_abs" && -d "$current_abs" ]] && __aap_is_leaf "$current_abs"; then
+        local i;
+        for ((i=0; i<${#leaves[@]}; ++i ))
+        do
+            if [[ "$(readlink -f -- "${leaves[i]}")" == "$current_abs" ]]; then
+                idx=$i;
+                break;
+            fi;
+        done;
+    fi;
+    if (( idx == 0 )); then
+        __aap_notice "Already at the first goal.";
+        exit 0;
+    fi;
+    local prev_leaf="${leaves[idx-1]}";
+    if [[ $AICLI_MODE == "coder" ]]; then
+        unset AICLI_MODE;
+        remountctl rw ai-cli "/${REPOBASE}-AAP";
+        trap 'unset AICLI_MODE; remountctl ro ai-cli "/${REPOBASE}-AAP"' EXIT;
+        export AICLI_MODE="coder";
+    fi;
+    __aap_ensure_status "$PLANROOT" "$prev_leaf" 1;
+    __aap_write_status "$PLANROOT" "$prev_leaf" not-achieved;
+    local parent_abs;
+    parent_abs="$(dirname -- "$prev_leaf")";
+    if [[ "$(readlink -f -- "$prev_leaf")" == "$(readlink -f -- "$objective_tree")" ]]; then
+        parent_abs="$prev_leaf";
+    fi;
+    __aap_rollup_statuses_from "$PLANROOT" "$parent_abs" "$objective_tree";
+    ln -snf -- "$(__aap_rel_to_planroot "$PLANROOT" "$prev_leaf")" "$current_objective_link";
+    __aap_notice "Updated current_objective to point to $(basename -- "$prev_leaf")." )
+}
+__aap_print_achieved () 
+{ 
+    local prefix="$1";
+    local child_name="$2";
+    if [[ $AICLI_MODE == "shell" ]]; then
+        printf '%s%b%s\n' "$prefix" '[32m🗸[0m ' "$child_name";
+    else
+        printf '%sv %s\n' "$prefix" "$child_name";
+    fi
+}
+__aap_read_status () 
+{ 
+    local planroot="$1";
+    local node="$2";
+    local status_path="$node/status";
+    if [[ ! -f "$status_path" ]]; then
+        printf '%s\n' "not-achieved";
+        return 0;
+    fi;
+    local s;
+    s="$(< "$status_path")";
+    s="${s//''/}";
+    s="${s//'
+'/}";
+    case "$s" in 
+        achieved | not-achieved)
+            printf '%s\n' "$s"
+        ;;
+        *)
+            __aap_die "Invalid status in $(__aap_rel_to_planroot "$planroot" "$status_path"): '$s' (expected achieved|not-achieved)."
+        ;;
+    esac
+}
+__aap_ref_matches_element () 
+{ 
+    local ref="$1";
+    local element="$2";
+    if [[ "$ref" == "." || "$ref" == ".." ]]; then
+        return 1;
+    fi;
+    local ref_norm;
+    ref_norm="$(__aap_normalize_ref "$ref")";
+    if [[ ! "$ref_norm" =~ ^[0-9][0-9] ]]; then
+        return 1;
+    fi;
+    [[ "$element" == "$ref_norm"* ]]
+}
+__aap_rel_to_planroot () 
+{ 
+    local planroot="$1";
+    local path="$2";
+    if command -v realpath > /dev/null 2>&1; then
+        realpath --relative-to="$planroot" "$path";
+    else
+        case "$path" in 
+            "$planroot"/*)
+                printf '%s\n' "${path#"$planroot"/}"
+            ;;
+            *)
+                printf '%s\n' "$path"
+            ;;
+        esac;
+    fi
+}
+__aap_resolve_ref_in_parent () 
+{ 
+    local planroot="$1";
+    local parent="$2";
+    local ref="$3";
+    local ref_norm;
+    ref_norm="$(__aap_normalize_ref "$ref")";
+    if [[ "$ref_norm" =~ ^[0-9]{1,2}\.$ ]]; then
+        __aap_die "Invalid ref '$ref' (must not end in '.').";
+        return 1;
+    fi;
+    local match_prefix="$ref_norm";
+    if [[ "$ref_norm" =~ ^[0-9]{2}$ ]]; then
+        match_prefix="${ref_norm}-";
+    fi;
+    local matches=();
+    local child;
+    while IFS= read -r -d '' child; do
+        local name;
+        name="$(basename -- "$child")";
+        if [[ "$name" == "$match_prefix"* ]]; then
+            matches+=("$child");
+        fi;
+    done < <(__aap_list_goal_dirs "$parent");
+    if (( ${#matches[@]} == 0 )); then
+        __aap_die "Unknown ref '$ref' under $(__aap_rel_to_planroot "$planroot" "$parent").";
+        return 1;
+    fi;
+    if (( ${#matches[@]} > 1 )); then
+        local names=();
+        local m;
+        for m in "${matches[@]}";
+        do
+            names+=("$(basename -- "$m")");
+        done;
+        __aap_die "Ambiguous ref '$ref' under $(__aap_rel_to_planroot "$planroot" "$parent"): ${names[*]}";
+        return 1;
+    fi;
+    printf '%s\n' "${matches[0]}"
+}
+__aap_resolve_refpath_parent () 
+{ 
+    local planroot="$1";
+    local objective_tree="$2";
+    local current_objective_abs="$3";
+    local refpath="$4";
+    local objective_tree_abs;
+    objective_tree_abs="$(readlink -f -- "$objective_tree")";
+    if [[ "$refpath" == "/" ]]; then
+        printf '%s\n' "$objective_tree_abs";
+        return 0;
+    fi;
+    if [[ -z "$refpath" ]]; then
+        __aap_die "Missing --parent <refpath> value.";
+        return 1;
+    fi;
+    local current_abs="";
+    if [[ -n "${current_objective_abs:-}" ]]; then
+        current_abs="$(readlink -f -- "$current_objective_abs" 2> /dev/null || true)";
+    fi;
+    local current_rel="";
+    if [[ -n "$current_abs" && "$current_abs" == "$objective_tree_abs"* ]]; then
+        if command -v realpath > /dev/null 2>&1; then
+            current_rel="$(realpath --relative-to="$objective_tree_abs" "$current_abs" 2> /dev/null || true)";
+        else
+            current_rel="${current_abs#"$objective_tree_abs"/}";
+        fi;
+    fi;
+    local current_elems=();
+    if [[ -n "$current_rel" && "$current_rel" != "." ]]; then
+        IFS='/' read -r -a current_elems <<< "$current_rel";
+    else
+        current_elems=("99-non-existent");
+    fi;
+    local absolute=0;
+    if [[ "$refpath" == /* ]]; then
+        absolute=1;
+        refpath="${refpath#/}";
+    fi;
+    local refs=();
+    IFS='/' read -r -a refs <<< "$refpath";
+    local r;
+    for r in "${refs[@]}";
+    do
+        if [[ -z "$r" ]]; then
+            __aap_die "Invalid --parent <refpath>: empty path element.";
+            return 1;
+        fi;
+        if [[ "$r" == "." || "$r" == ".." ]]; then
+            __aap_die "Invalid --parent <refpath>: '.' and '..' are not allowed.";
+            return 1;
+        fi;
+    done;
+    local match_index=-1;
+    if (( absolute )); then
+        if [[ -z "$current_objective_abs" || "${current_elems[0]}" == "99-non-existent" ]]; then
+            __aap_die "Cannot resolve absolute --parent '$4' without a valid current_objective (use --parent /).";
+            return 1;
+        fi;
+        local i;
+        for ((i=0; i<${#refs[@]}; ++i ))
+        do
+            if (( i >= ${#current_elems[@]} )); then
+                __aap_die "Absolute --parent '$4' is longer than the current_objective path.";
+                return 1;
+            fi;
+            if ! __aap_ref_matches_element "${refs[i]}" "${current_elems[i]}"; then
+                __aap_die "Absolute --parent '$4' does not match the current_objective path at element ${i}.";
+                return 1;
+            fi;
+        done;
+        match_index=$((${#refs[@]}-1));
+    else
+        local last_ref="${refs[-1]}";
+        local j;
+        for ((j=${#current_elems[@]}-1; j>=0; --j ))
+        do
+            if ! __aap_ref_matches_element "$last_ref" "${current_elems[j]}"; then
+                continue;
+            fi;
+            local ok=1;
+            local i;
+            for ((i=${#refs[@]}-1; i>=0; --i ))
+            do
+                local elem_index=$((j - ((${#refs[@]}-1) - i)));
+                if (( elem_index < 0 )); then
+                    ok=0;
+                    break;
+                fi;
+                if ! __aap_ref_matches_element "${refs[i]}" "${current_elems[elem_index]}"; then
+                    ok=0;
+                    break;
+                fi;
+            done;
+            if (( ok )); then
+                match_index=$j;
+                break;
+            fi;
+        done;
+        if (( match_index < 0 )); then
+            __aap_die "Could not match --parent '$4' against the current_objective path.";
+            return 1;
+        fi;
+    fi;
+    local parent="$objective_tree_abs";
+    local i;
+    for ((i=0; i<=match_index && i<${#current_elems[@]}; ++i ))
+    do
+        parent+="/${current_elems[i]}";
+    done;
+    printf '%s\n' "$parent"
+}
+__aap_rollup_statuses_from () 
+{ 
+    local planroot="$1";
+    local node="$2";
+    local root="$3";
+    local root_abs;
+    root_abs="$(readlink -f -- "$root")";
+    local cur;
+    cur="$(readlink -f -- "$node")";
+    while :; do
+        if __aap_node_has_goal_dirs "$cur"; then
+            __aap_ensure_status "$planroot" "$cur" 1 || return 1;
+            local all_achieved=1;
+            local child;
+            while IFS= read -r -d '' child; do
+                if [[ "$(__aap_read_status "$planroot" "$child")" != "achieved" ]]; then
+                    all_achieved=0;
+                    break;
+                fi;
+            done < <(__aap_list_goal_dirs "$cur");
+            if (( all_achieved )); then
+                __aap_write_status "$planroot" "$cur" achieved || return 1;
+            else
+                __aap_write_status "$planroot" "$cur" not-achieved || return 1;
+            fi;
+        fi;
+        [[ "$cur" == "$root_abs" ]] && break;
+        cur="$(dirname -- "$cur")";
+    done
+}
+__aap_token_unique_in_parent () 
+{ 
+    local planroot="$1";
+    local parent="$2";
+    local new_name="$3";
+    local new_token;
+    new_token="$(__aap_goal_token "$new_name")";
+    local child;
+    while IFS= read -r -d '' child; do
+        local name;
+        name="$(basename -- "$child")";
+        local token;
+        token="$(__aap_goal_token "$name")";
+        if [[ "$token" == "$new_token" ]]; then
+            __aap_die "Numeric prefix token '$new_token' is not unique under $(__aap_rel_to_planroot "$planroot" "$parent") (conflicts with '$token').";
+            return 1;
+        fi;
+        local shorter="$token";
+        local longer="$new_token";
+        if (( ${#new_token} < ${#token} )); then
+            shorter="$new_token";
+            longer="$token";
+        fi;
+        if [[ "$longer" == "$shorter"* ]]; then
+            if [[ ! "$shorter" =~ ^[0-9]{2}$ ]]; then
+                __aap_die "Numeric prefix token '$new_token' is not unique under $(__aap_rel_to_planroot "$planroot" "$parent") (conflicts with '$token').";
+                return 1;
+            fi;
+        fi;
+    done < <(__aap_list_goal_dirs "$parent")
+}
+__aap_warn () 
+{ 
+    printf '%b%s\n' '[31mWARNING:[0m ' "$*" 1>&2
+}
+__aap_warn_out () 
+{ 
+    printf '%b%s\n' '[31mWARNING:[0m ' "$*"
+}
+__aap_write_status () 
+{ 
+    local planroot="$1";
+    local node="$2";
+    local value="$3";
+    local status_path="$node/status";
+    case "$value" in 
+        achieved | not-achieved)
+
+        ;;
+        *)
+            __aap_die "Invalid status value '$value' for $(__aap_rel_to_planroot "$planroot" "$node")";
+            return 1
+        ;;
+    esac;
+    printf '%s\n' "$value" > "$status_path"
+}
+__cdeh_clear_environment () 
+{ 
+    test -z "${CDEH_VERBOSE:-}" || echo "$$ CLEARING ENVIRONMENT";
+    for name in $(declare -p | /bin/grep '^declare -[AFafgilntux-]* ' | /bin/sed -e 's/=.*//;s/.* //' | /bin/grep -E -v '^((__cdeh_|CDEH_|BASH_|PULSE_PROP_OVERRIDE)|(BASH|BASHPID|BASHOPTS|COMP_WORDBREAKS|DIRSTACK|DISPLAY|FUNCNAME|GROUPS|HOSTNAME|LINENO|RANDOM|SECONDS|PATH|PS1|PROMPT_COMMAND|PWD|SHELL|TERM|name|HISTFILE|HISTFILESIZE|HISTSIZE|HISTCMD|HISTCONTROL|PIPESTATUS|HOSTFILE|MAILCHECK|_|SSH_AGENT_PID|SSH_AUTH_SOCK|HOME)$)');
+    do
+        unset $name;
+    done;
+    for name in $(declare -F | /bin/grep '^declare -[[:alnum:]]*f' | /bin/sed -e 's/.* //' | /bin/grep -E -v '^__cdeh_');
+    do
+        unset -f $name;
+    done;
+    for name in $(alias -p | /bin/grep '^alias [[:alnum:]_-]*=' | /bin/sed -e 's/=.*//;s/^alias //');
+    do
+        unalias $name;
+    done;
+    unset name
+}
+__cdeh_rebuild_envfiles () 
+{ 
+    echo "__cdeh_reset_environment" >> "$CDEH_TMP/envfiles";
+    cdeh_j=$cdeh_i;
+    while test $cdeh_j -gt 0; do
+        cdeh_j=$((cdeh_j - 1));
+        echo "${CDEH_SOURCE_DIRS[$cdeh_j]}/env.source" >> "$CDEH_TMP/envfiles";
+    done
+}
+__cdeh_rebuild_source_dirs () 
+{ 
+    CDEH_CURRENT_DIR="/";
+    cdeh_i=0;
+    unset CDEH_SOURCE_DIRS;
+    CDEH_DESCENT_DIR=$(realpath -s "$PWD");
+    until [ "$CDEH_DESCENT_DIR" = "" ]; do
+        if [ -f "$CDEH_DESCENT_DIR/env.source" ]; then
+            CDEH_SOURCE_DIRS[cdeh_i]="$CDEH_DESCENT_DIR";
+            cdeh_i=$((cdeh_i + 1));
+        fi;
+        CDEH_DESCENT_DIR="${CDEH_DESCENT_DIR%/*}";
+    done;
+    if test $cdeh_i -gt 0; then
+        CDEH_CURRENT_DIR="${CDEH_SOURCE_DIRS[0]}";
+        CDEH_NEW_DIR="$CDEH_CURRENT_DIR";
+    else
+        CDEH_NEW_DIR="/";
+    fi;
+    if [ -f "/env.source" ]; then
+        CDEH_SOURCE_DIRS[cdeh_i]="";
+        cdeh_i=$((cdeh_i + 1));
+        if test $cdeh_i -eq 1; then
+            CDEH_NEW_DIR="/";
+        fi;
+    fi
+}
+__cdeh_resource () 
+{ 
+    CDEH_SAVE_IFS="$IFS";
+    IFS='
+';
+    for __cdeh_env_file in $CDEH_ENVFILES;
+    do
+        if test "$__cdeh_env_file" = "__cdeh_reset_environment"; then
+            __cdeh_clear_environment;
+            test -z "${CDEH_VERBOSE:-}" || echo "$$ RELOADING SAVED ENVIRONMENT from $CDEH_TMP/env.base";
+            source "$CDEH_TMP/env.base";
+        else
+            test -z "${CDEH_VERBOSE:-}" || echo "$$ Sourcing \"$__cdeh_env_file\"";
+            source "$__cdeh_env_file";
+        fi;
+    done;
+    IFS="$CDEH_SAVE_IFS";
+    unset CDEH_SAVE_IFS
+}
+__cdeh_store_environment () 
+{ 
+    test -z "${CDEH_VERBOSE:-}" || echo "$$ STORING ENVIRONMENT to $CDEH_TMP/env.base";
+    declare -p | awk '
+      BEGIN { show=0 }
+      /^declare -/ {
+        name=$3;
+        gsub("=.*","",name);
+        gsub("-+", "-g", $2);
+        show=!index($2,"r") && !match(name, "^((__cdeh_|CDEH_|BASH|PULSE_PROP_OVERRIDE)|(name|HISTFILE|HISTFILESIZE|HISTSIZE|PIPESTATUS|PWD|_|SSH_AGENT_PID|SSH_AUTH_SOCK|HOME)$)")
+      }
+      {
+        if (show)
+          print
+      }' > "$CDEH_TMP/env.base";
+    declare -pf | awk '
+      BEGIN { show=0 }
+      /^[[:alnum:]_-]+ \(\)/ {
+        name=$1;
+        show=!match(name, "^__cdeh_")
+      }
+      /^declare -/ {
+        name=$3;
+        gsub("-+", "-g", $2);
+        show=!match(name, "^__cdeh_") }
+      {
+        if (show)
+          print
+      }' >> "$CDEH_TMP/env.base";
+    alias -p >> "$CDEH_TMP/env.base"
+}
+aap-analyst-list () 
+{ 
+    __aap_analyst_list_impl "$@"
+}
+aap-bootstrap () 
+{ 
+    __aap_bootstrap_impl "$@"
+}
+aap-build () 
+{ 
+    __aap_build_impl "$@"
+}
+aap-configure () 
+{ 
+    __aap_configure_impl "$@"
+}
+aap-done () 
+{ 
+    __aap_done_impl "$@"
+}
+aap-insert () 
+{ 
+    __aap_insert_impl "$@"
+}
+aap-ls () 
+{ 
+    __aap_ls_impl "$@"
+}
+aap-previous () 
+{ 
+    __aap_previous_impl "$@"
+}
+abbreviate_path () 
+{ 
+    local p=$1;
+    if [[ -n ${PWD:-} && $p == "$PWD"/* ]]; then
+        printf '%s\n' "${p#$PWD/}";
+    else
+        if [[ -n ${REPOROOT:-} && $p == "$REPOROOT"/* ]]; then
+            printf '%s\n' "\$REPOROOT/${p#$REPOROOT/}";
+        else
+            if [[ -n ${BUILDDIR:-} && $p == "$BUILDDIR"/* ]]; then
+                printf '%s\n' "\$BUILDDIR/${p#$BUILDDIR/}";
+            else
+                if [[ -n ${WORKSPACE_ROOT:-} && $p == "$WORKSPACE_ROOT"/* ]]; then
+                    printf '%s\n' "\$WORKSPACE_ROOT/${p#$WORKSPACE_ROOT/}";
+                else
+                    if [[ -n ${HOME:-} && $p == "$HOME"/* ]]; then
+                        printf '%s\n' "~/${p#$HOME/}";
+                    else
+                        if command -v realpath > /dev/null 2>&1; then
+                            realpath --relative-to="$PWD" "$p";
+                        else
+                            printf '%s\n' "$p";
+                        fi;
+                    fi;
+                fi;
+            fi;
+        fi;
+    fi
+}
+resource () 
+{ 
+    __cdeh_rebuild_source_dirs;
+    rm -f "$CDEH_TMP/envfiles";
+    __cdeh_rebuild_envfiles;
+    export CDEH_ENVFILES=$(cat "$CDEH_TMP/envfiles");
+    __cdeh_resource
+}
