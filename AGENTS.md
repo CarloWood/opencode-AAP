@@ -1,1 +1,1 @@
-agents-common/AGENTS.md
+agents-common/planner/AGENTS.md
