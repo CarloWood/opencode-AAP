@@ -1,4 +1,0 @@
-4. Update `AGENTS.md` to mark certain `aap-*` commands as only allowed when explicitly told — current focus
-5. Distinguish user shell permissions from agent permissions for `aap-*` — open
-6. Find out where `mode` is written and then only write primary agents — pending
-7. Automate copying Topic List from chat to topics file — open
