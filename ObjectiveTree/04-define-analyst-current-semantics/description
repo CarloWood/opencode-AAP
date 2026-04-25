@@ -1,0 +1,1 @@
+Define and implement the intended role of $PLANROOT/analyst/current after ObjectiveTree becomes a container: decide whether analyst topics are pinned to an explicit objective, manually reset to the current objective, or replaced by $PLANROOT/current_objective; ensure the chosen behavior does not write topics onto the ObjectiveTree container.

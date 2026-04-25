@@ -1,0 +1,1 @@
+Change the plan-tree design so ObjectiveTree is only a container for top-level objectives, not itself the main objective; ObjectiveTree must not have description or status files, and helpers must treat top-level objective directories as the roots of executable plans.

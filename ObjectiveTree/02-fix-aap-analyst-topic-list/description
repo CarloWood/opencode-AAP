@@ -1,0 +1,1 @@
+Fix aap-analyst-update-topic-list so it exposes useful help and does not overwrite an existing topics file when the supplied text contains no Topic List section.

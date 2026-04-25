@@ -1,0 +1,1 @@
+Fix aap-done so marking the root ObjectiveTree objective achieved never walks or writes outside $PLANROOT/ObjectiveTree; add a regression check for completing a root-only plan and verify no $PLANROOT/../status is created.

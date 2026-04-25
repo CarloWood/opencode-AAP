@@ -1,0 +1,1 @@
+Add a --help/-h path to aap-analyst-update-topic-list that documents its expected text argument, analyst-only execution context, and no-match behavior.

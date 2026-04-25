@@ -1,0 +1,1 @@
+Change aap-analyst-update-topic-list so that when its Topic List regular expression does not match the supplied text, it leaves the existing topics file unchanged instead of writing an empty file.

@@ -1,0 +1,1 @@
+Fix aap-insert parent resolution so an absolute top-level refpath such as /03 can select any existing top-level objective under ObjectiveTree, not only prefixes of the current_objective path; include a regression check for adding the first child under a future sibling objective.
