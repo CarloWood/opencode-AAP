@@ -1,0 +1,1 @@
+Change completion semantics so when the final child goal of an objective is marked achieved, the parent objective is not automatically marked achieved; instead current_objective moves to that parent for explicit review/completion, with helpers updated to allow an internal objective as current when its child goals are complete.
